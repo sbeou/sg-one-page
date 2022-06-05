@@ -1,0 +1,14 @@
+/*
+Theme Name: SG Onepage
+Theme URI: 
+Description: A theme built with Bootstrap.
+Author: Webdesign à la française
+Author URI: http://seb-webdesign.com.br/
+Version: 1.0
+Tags: responsive, white, bootstrap, onepage, mobile first
+
+*/
+@import url('bootstrap/css/bootstrap.min.css'); 
+@import url('bootstrap/css/bootstrap-theme.min.css'); 
+@import url('bootstrap/css/animate.min.css');
+@import url('bootstrap/css/theme.min.css');
