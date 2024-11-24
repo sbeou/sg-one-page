@@ -64,7 +64,7 @@ function register_my_menus() {
 add_action( 'init', 'register_my_menus' );
 
 function wpb_add_google_fonts() {
-	wp_enqueue_style( 'wpb-google-fonts', 'https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,200,600', false );
+	wp_enqueue_style( 'wpb-google-fonts', 'https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@200..900&display=swap', false );
 }
 add_action( 'wp_enqueue_scripts', 'wpb_add_google_fonts' );
 
